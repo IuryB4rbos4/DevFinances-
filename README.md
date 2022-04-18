@@ -24,7 +24,7 @@ Aqui estão as tecnologias usadas neste projeto.
 
 ### 1 - Página inicial.
 
-![Homepage image](https://github.com/Askizin/DevFinances-/blob/master/public/aba%20de%20transacao.png)
+![Homepage image](https://github.com/Askizin/DevFinances-/blob/master/public/home.png)
 
 ### 2 - Aba de nova transação.
 
