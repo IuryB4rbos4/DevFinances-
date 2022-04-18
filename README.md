@@ -41,11 +41,11 @@ Aqui estão as tecnologias usadas neste projeto.
       iury_barbosa07@hotmail.com diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
       para melhorar a segurança e privacidade deste projeto!
 
-  ## Versioning
+  ## Versão
 
   1.0.0.0
 
 
-  ## Authors
+  ## Autor
 
   * **Iury Barbosa Alves** 
