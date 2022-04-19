@@ -4,9 +4,9 @@
 ## 💲 Aplicação web para controle financeiro 💲
 <br />
 Aplicação de controle financeiro desenvolvido por Mayk Brito na Maratona Discover pela Rocketseat. <br />
-Ademais, o objetivo da apliacação é facilitar o controle financeiro de forma simples, rápida e detalhada. <br />
-Um dos diferenciais dessa aplicação vem na utilização dos dados salvos no Local Storage do navegador, uma vez que a página <br />
-é atualizada, os dados inseridos não serão perdidos.
+Ademais, o objetivo da aplicação é facilitar o controle financeiro de forma simples, rápida e detalhada. <br />
+Um dos diferenciais dessa aplicação vem na utilização dos dados salvos no Local Storage do navegador<br />
+uma vez que a página é atualizada os dados inseridos não serão perdidos.
 
 ## Technology ⚙️
 
@@ -37,7 +37,7 @@ Aqui estão as tecnologias usadas neste projeto.
 ## Link
 
   - Repository: https://github.com/Askizin/DevFinances-
-    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato
+    - Em caso de bugs sensíveis, como vulnerabilidades de segurança, entre em contato através do email
       iury_barbosa07@hotmail.com diretamente em vez de usar o rastreador de problemas. Valorizamos o seu esforço
       para melhorar a segurança e privacidade deste projeto!
 
